@@ -5,7 +5,7 @@ Cobblemon 1.8.2, com os mesmos mods do servidor.
 
 - Servidor: `play.farbound.com.br`
 - Site: <https://farbound.com.br>
-- Discord: <https://discord.gg/av7aExr8YA>
+- Discord: <https://discord.gg/5vUy2rJwW5>
 
 ## Baixar
 
@@ -17,7 +17,7 @@ Cobblemon 1.8.2, com os mesmos mods do servidor.
 Os dois links são sempre da versão mais nova, e os dois arquivos trazem os mesmos mods. As versões anteriores,
 com o que mudou em cada uma, ficam em [Releases](https://github.com/fernandoabf/farbound-modpack/releases).
 
-O servidor está em **beta fechado**: o seu nick precisa estar liberado. Peça no Discord.
+O beta está aberto: qualquer pessoa entra, sem whitelist.
 
 ## Instalar
 
@@ -53,6 +53,10 @@ GitHub; o Farbound Core e o Farbound Claims, que vêm dentro do pack): pode acei
 Clique em **Jogar**: a primeira abertura demora alguns minutos e o jogo já abre em português. Em
 **Multijogador**, o Farbound já está na lista (`play.farbound.com.br`).
 
+Na primeira entrada, o jogo baixa o modpack do servidor uma vez. Se aparecer a tela **Instalação do modpack**,
+espere os 10 segundos, marque *Entendo o risco e confio neste servidor*, clique em *Baixar estes JARs não
+verificados* e, no fim, em *Sim, fechar o jogo*. Abra o jogo de novo e entre.
+
 - **Login:** com o Minecraft original você entra direto. Sem o original, na primeira vez digite
   `/register <senha> <senha>` e, nas próximas, `/login <senha>`. Para trocar a skin, use `/skin`.
 - **Chat de voz:** aperte **V**. Na primeira vez ele pergunta se você fala segurando uma tecla ou por
@@ -60,7 +64,8 @@ Clique em **Jogar**: a primeira abertura demora alguns minutos e o jogo já abre
   configurações de privacidade do Windows.
 - **Minerar o veio inteiro** (FTB Ultimine): segure a tecla à esquerda do **1** enquanto quebra.
 - **Jogo pesado?** Diminua a distância de renderização em **Opções → Vídeo**. Os shaders vêm desligados.
-- **Versão nova do modpack:** importe o arquivo novo do mesmo jeito (vira outra instância) e apague a antiga.
+- **Versão nova do modpack:** não precisa baixar de novo. O modpack se atualiza sozinho ao abrir o jogo; quando
+  muda um mod do próprio Farbound, a mesma tela aparece ao entrar no servidor e o jogo reinicia uma vez.
 
 ## Licenças
 
